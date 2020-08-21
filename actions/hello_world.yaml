@@ -1,3 +1,2 @@
----
-workflow: "transposit/hello_world:v1.0.1"
-prettyName: "Hello world"
+workflow: 'transposit/hello_world:v1.0.1'
+prettyName: Hello world
